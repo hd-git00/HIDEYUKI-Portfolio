@@ -74,6 +74,11 @@ ul{
 }
 
 /* <!--Profile---> */
+#profile{
+  margin-top:-60px;
+  padding-top:70px;
+}
+
 .profile{
   padding:30px 30px;
   border-bottom:gray solid 2px;
